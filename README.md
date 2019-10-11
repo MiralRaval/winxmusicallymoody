@@ -1,0 +1,2 @@
+# winxmusicallymoody
+The chat application detects emotion of the user and automatically sends corresponding emoji in the chat. It creates autonomous list of songs according to users expression from which user selects a song and sends it in the chat. I have worked with expressions- surprise, happy, sad, anger and neutral for emoji sending. For songs I have considered expressions- anger, happy and sad. The dataset used is FER 2013 for facial recognision.
